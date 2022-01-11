@@ -1,0 +1,144 @@
+/*Container*/
+
+.container-header{
+
+    background-color: cadetblue;
+    text-shadow: 1px 1px whitesmoke;
+   
+}
+
+.container-header p{
+
+    text-align: left;
+    font-size: 20px;
+
+}
+
+.container{     
+    text-align: left;
+    color: cadetblue;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    
+}
+
+.container img{
+
+    display: list-item;
+    width: 300px;
+    height: 150px;
+    border: 1px solid wheat;
+  
+
+}
+
+/* Services Part */
+.service-item
+{
+    width: 30%;
+    height: 400px;
+    border: 2px ;
+    border-radius: 10px;
+    border: 2px solid wheat;
+    background-color: plum;
+    /*padding: 30px;*/
+    margin: 30px;
+    text-align: center;
+    font-size: 13px; 
+    color: white;
+}
+
+.service-item img{
+    
+    border-radius: 30px;
+    border: 1px solid white;
+    width: 150px;
+    height: 100px;
+    
+}
+
+.titles-service
+{
+    color: black;
+    text-shadow: 1px 1px white;
+    padding: 10px;
+    font-size: 15px;
+    text-align: center;
+}
+
+.service-con
+{
+    display: flex;
+}
+
+
+/*Register Part*/
+.register-pet{
+
+    color: black;
+    font-size: 14px;
+
+    border: 2px solid wheat;
+    border-radius: 10px;
+    background-color: plum;
+    
+    height: 400px;
+    width: 23%;
+    
+}
+.register-pet input{
+
+    text-align: center;
+    border-color: whitesmoke;
+    border-style:groove;
+
+}
+
+
+/*About Part*/
+
+.about-class{
+
+    text-align: center;
+    color: cadetblue;
+    font-size: 10px;
+    background-color: whitesmoke;
+    border: 2px solid wheat;
+    border-radius: 20%;
+  
+}
+
+.about-class h3{
+
+    text-shadow: 1px 1px black;
+    font-size: 18px;
+
+}
+
+/*Footer*/
+
+footer
+{
+    color: plum;
+    font-size: 10px;
+
+}
+
+/*Other*/
+
+.my-card{
+    width: 200px;
+    padding: 5px;
+    margin: 20px;
+    display:inline-table;
+
+    background-color: cadetblue;
+    border: 2px solid wheat;
+    color: white;
+    
+}
+
+
+.backcolor{
+
+    background-color:darkgoldenrod;
+}
